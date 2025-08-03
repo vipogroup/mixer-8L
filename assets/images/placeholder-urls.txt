@@ -1,0 +1,9 @@
+תמונות פלייסהולדר לשימוש בפרויקט:
+
+1. https://via.placeholder.com/800x600/3498db/ffffff?text=VIPO+Product+1
+2. https://via.placeholder.com/800x600/2ecc71/ffffff?text=VIPO+Product+2
+3. https://via.placeholder.com/800x600/e74c3c/ffffff?text=VIPO+Product+3
+4. https://via.placeholder.com/800x600/f39c12/ffffff?text=VIPO+Product+4
+
+סרטון לדוגמה:
+https://www.w3schools.com/html/mov_bbb.mp4

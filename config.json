@@ -1,0 +1,12 @@
+{
+  "productName": "מחשב נייד גיימינג VIPO Pro",
+  "productDescription": "מחשב נייד גיימינג עוצמתי עם מעבד Intel Core i7 דור 12, כרטיס מסך RTX 3060 ומסך 144Hz",
+  "price": 4999,
+  "discountPrice": 3799,
+  "currency": "₪",
+  "endDate": "2025-12-31T23:59:59",
+  "imagesFolder": "product-images",
+  "specFile": "product-spec.html",
+  "participants": 32,
+  "contactPhone": "0587009938"
+}
